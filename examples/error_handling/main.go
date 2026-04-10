@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	remapi "github.com/Jolymmiles/remnawave-api-go/v2/api"
+	remapi "github.com/jumble-ai/remnawave-api-go/v2/api"
 )
 
 func main() {
